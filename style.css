@@ -29,7 +29,15 @@
   position: relative;
   font-size: 10px;
   margin-left: 40px;
-  margin-top: -20px;
+  margin-top: -13px;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+p {
+  margin-left: 40px;
 }
 
 #intereses {

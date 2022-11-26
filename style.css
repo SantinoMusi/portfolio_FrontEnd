@@ -1,0 +1,53 @@
+#Header {
+  background-color: #292929;
+  color: white;
+}
+
+#ig {
+  margin-top: 2.5px;
+}
+
+#login {
+  background-color: #292929;
+  border-color: #115800;
+  color: #115800;
+}
+
+.img2 {
+  position: relative;
+  z-index: 1;
+}
+
+.img1 {
+  position: relative;
+  z-index: 2;
+  top: -75px;
+  left: 20px;
+}
+
+.desc {
+  position: relative;
+  font-size: 10px;
+  margin-left: 40px;
+  margin-top: -20px;
+}
+
+#intereses {
+  position: relative;
+  color: white;
+  background-color: #007CDE;
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 13px;
+  margin-left: 40px;
+  top: -10px;
+}
+
+.añadir-mas {
+  position: relative;
+  background-color: #D9D9D9;
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 13px;
+  top: -10px;
+}

@@ -1,35 +1,37 @@
 #Header {
   background-color: #292929;
   color: white;
-  padding-top: 3px;
   padding-right: 25px;
   padding-left: 25px;
+  padding-top: 5px;
+}
+
+.icon {
+  float: right;
+  margin-top: 2px;
 }
 
 #ig {
-  margin-top: 2.5px;
+  margin-top: 4.5px;
 }
 
 #login {
-  background-color: #292929;
-  border-color: #115800;
-  color: #115800;
+  background-color: #115800;
+  color: white;
+  margin-bottom: 4px;
+  border-radius: 2px;
+  border-width: 0px;
 }
 
 #login:hover {
-  background-color: #1b1b1b;
+  background-color: #0e4700;
 }
 
-.img2 {
+.perfil {
   position: relative;
-  z-index: 1;
-}
-
-.img1 {
-  position: relative;
-  z-index: 2;
   top: -75px;
   left: 20px;
+  border-width: 10px;
 }
 
 .desc {

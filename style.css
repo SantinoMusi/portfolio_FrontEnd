@@ -88,3 +88,16 @@ h6 {
 .añadir-mas:hover {
   background-color: #b2b2b2;
 }
+
+.proyectos {
+  margin-left: 60px;
+  color: #007CDE;
+  margin-top: 15px;
+}
+
+.proydesc {
+  margin-left:60px;
+  font-size:13px;
+  margin-top:10px;
+  color:grey;
+}
